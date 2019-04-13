@@ -1,4 +1,7 @@
 # repo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caibo2/repo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caibo2/repo/binder)
+
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/caibo2/repo/master
+ :target: https://mybinder.org/v2/gh/caibo2/repo/binder
+ 
+ 
